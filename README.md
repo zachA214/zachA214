@@ -1,4 +1,5 @@
 - 👋 Hey, I’m Zachary Adelson!
 - 👀 I’m interested in cybersecurity and enjoy coding for fun as well!
-- 🌱 I’m currently studying for my degree and about to begin studying for the CompTIA A+ exam
+- 🌱 I’m currently studying for my degree and have earned the following certifications
+ > CompTIA Security+
 - 💞️ I’m looking for advice and tips going through this process!
